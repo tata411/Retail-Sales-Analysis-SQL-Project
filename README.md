@@ -3,8 +3,8 @@
 ## Project overview
 
 **Project Title**: Retail Sales Analysis  
-**Database**: `p1_retail_db`
-**Tools**: PostgreSQL
+**Database**: [`retail_sales_utf.csv`](https://github.com/tata411/Retail-Sales-Analysis-SQL-Project/blob/f16eb50bbf5166e336c36a30c46a1c2e379dbebb/retail_sales_utf%20.csv)
+**Tools**: PostgreSQL, DBeaver
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
